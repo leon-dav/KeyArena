@@ -17,7 +17,7 @@ Freely inspired from the game [Poggo](https://random-bazar.fr/en/label-2/yojun/)
 ![App](pictures/welcome.jpg)
 ![Credit](pictures/credit.jpg)
 ![Versus](pictures/vs.jpg)
-![Game](pictures/game.png)
+![Game](pictures/game.jpg)
 
 
 ## Run Locally
